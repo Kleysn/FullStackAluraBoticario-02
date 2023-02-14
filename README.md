@@ -2,7 +2,7 @@
 # Segundo Projeto formação Full Stack Alura + Grupo Boticario: Construindo um site de Cursos Alurinha
 
 ### Descrição de projeto:
-O projeto realizado durante o curso consistiu no desenvolvimento de uma interface web para uma siste de curso de progamação. O resultado pode ser conferido abaixo:
+O projeto realizado durante o curso consistiu no desenvolvimento de uma interface web para uma site de curso de progamação. O resultado pode ser conferido abaixo:
 
 <img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/Kleysn/FullStackAluraBoticario-02/blob/main/img/demonstra%C3%A7%C3%A3o/Anima%C3%A7%C3%A3o.gif">
 ---
